@@ -1,72 +1,76 @@
-# Hi, I'm a Cloud Security Practitioner 👋
+# Hi, I'm Obafemi Samuel Agbi 👋
 
-I build hands-on projects focused on **cloud security, secure infrastructure, and DevSecOps automation**. My goal is to design, deploy, and secure cloud environments using industry-relevant security practices and Infrastructure as Code.
+### Cloud Security | AWS | Terraform | DevSecOps
 
-I'm developing practical skills in AWS security, Terraform, identity and access management, network security, and automated vulnerability detection.
+I'm a cybersecurity practitioner building hands-on projects focused on securing cloud infrastructure, automating security controls, and integrating security into software delivery workflows.
 
-## 🎯 Technical Focus
+My work focuses on applying security-by-design principles to cloud environments, with an emphasis on least-privilege access, network isolation, infrastructure as code, encryption, secrets management, and automated security testing.
 
-* **Cloud Security:** AWS security architecture, VPCs, private networking, encryption, and secrets management
-* **Infrastructure as Code:** Terraform modules, reusable infrastructure, and security-focused configuration
-* **Identity & Access Management:** IAM least privilege, workload roles, and GitHub Actions OIDC federation
-* **Container Security:** Amazon ECS Fargate, container configurations, and vulnerability scanning
-* **DevSecOps:** CI/CD security gates, secrets detection, static analysis, and infrastructure misconfiguration scanning
-* **Security Engineering:** Secure-by-design principles, risk reduction, and security validation
+## 🔐 Areas of Focus
+
+* **AWS Cloud Security** — VPC architecture, IAM, ECS Fargate, encryption, and secrets management
+* **Infrastructure as Code** — Terraform modules, secure resource configuration, and state management
+* **Identity Security** — Least-privilege IAM, workload roles, and OIDC federation
+* **Container Security** — Container image scanning and secure workload deployment
+* **DevSecOps** — CI/CD security gates, secret detection, static analysis, and IaC scanning
 
 ## 🚀 Featured Projects
 
-### 1. SentinelPay — AWS Cloud Security Infrastructure
+### 🛡️ SentinelPay — AWS Cloud Security
 
-A hands-on project focused on deploying a payment application on a security-focused AWS architecture managed with Terraform.
+Designing and implementing a security-focused AWS architecture managed with Terraform.
 
-**Key technologies:** AWS, Terraform, ECS Fargate, VPC, IAM, Application Load Balancer, AWS KMS, Secrets Manager, Amazon RDS, Amazon ElastiCache, and Amazon S3.
+**Tech stack:** AWS · Terraform · ECS Fargate · IAM · VPC · ALB · KMS · Secrets Manager
 
-**Security objectives:**
+**Focus areas:**
 
-* Design private networking and controlled application ingress through a load balancer.
-* Apply least-privilege IAM roles for workloads.
-* Use encryption to protect supported data stores.
-* Centralise application secrets using AWS Secrets Manager.
-* Explore secure CI/CD authentication using GitHub Actions OIDC federation.
-* Structure cloud infrastructure into reusable Terraform modules.
+* Private networking and controlled application ingress
+* Least-privilege workload permissions
+* Encryption and centralised secrets management
+* Modular Terraform infrastructure
+* Secure CI/CD authentication with GitHub Actions OIDC
 
-**Repository:** [Add your SentinelPay repository link]
+🔗 [View SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)
 
-### 2. SecureFlow — DevSecOps Security Pipeline
+### ⚙️ SecureFlow — DevSecOps Pipeline
 
-A hands-on project integrating security checks into a GitHub Actions CI/CD workflow.
+Developing a CI/CD security pipeline that integrates automated security checks into the software delivery process.
 
-**Key technologies:** GitHub Actions, Gitleaks, SonarQube, Trivy, Checkov, and Terraform.
+**Tech stack:** GitHub Actions · Gitleaks · SonarQube · Trivy · Checkov
 
-**Security objectives:**
+**Focus areas:**
 
-* Detect exposed credentials and secrets.
-* Scan source code for security findings.
-* Identify vulnerable container images.
-* Check infrastructure as code for security misconfigurations.
-* Apply security gates to critical and blocker findings.
-* Produce scan reports and CI/CD security artefacts.
+* Secret and credential detection
+* Static application security testing
+* Container vulnerability scanning
+* Terraform and infrastructure misconfiguration checks
+* Security gates for critical findings
+* Security scan reports and workflow artefacts
 
-**Repository:** [Add your SecureFlow repository link]
+🔗 [View SecureFlow](https://github.com/greencypher/SecureFlow-VulnerableCodebase)
 
-## 🛠️ Technologies & Tools
+## 🧰 Technologies & Tools
 
-**Cloud:** AWS
-**Infrastructure as Code:** Terraform
-**CI/CD:** GitHub Actions
-**Security Testing:** Gitleaks, SonarQube, Trivy, Checkov
-**Containers:** Docker, Amazon ECS Fargate, kubernates
-**Operating Systems:** Linux, Kali Linux, Windows
-**Version Control:** Git, GitHub
+| Category          | Technologies                        |
+| ----------------- | ----------------------------------- |
+| Cloud             | AWS                                 |
+| IaC               | Terraform                           |
+| Containers        | Docker, ECS Fargate                 |
+| CI/CD             | GitHub Actions                      |
+| Security Scanning | Gitleaks, SonarQube, Trivy, Checkov |
+| Version Control   | Git, GitHub                         |
+| Operating Systems | Linux, Kali Linux, Windows          |
 
-## 📚 Current Learning Goals
+## 📚 Current Learning Journey
 
-* Strengthen AWS cloud security architecture and IAM design.
-* Improve Terraform security, state management, and reusable module design.
-* Build secure container deployment workflows.
-* Develop practical cloud threat detection and incident response skills.
-* Improve security automation and CI/CD policy enforcement.
+* Deepening my knowledge of AWS security architecture and cloud threat modelling
+* Strengthening Terraform security and infrastructure lifecycle management
+* Building secure container deployment pipelines
+* Improving automated security validation and vulnerability management
+* Developing practical cloud detection and incident response skills
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
-I'm interested in connecting with cloud security engineers, cybersecurity professionals, and DevSecOps practitioners, and in contributing to projects that improve cloud security.
+I'm interested in cloud security engineering, DevSecOps, infrastructure security, and collaborating with people who build more secure systems.
+
+*I use hands-on projects to develop and demonstrate my skills. Implementation status and validation evidence are documented within each project repository.*
