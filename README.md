@@ -1,76 +1,89 @@
-# Hi, I'm Obafemi Samuel Agbi 👋
+# Hello, I'm Obafemi Samuel Agbi 👋
 
-### Cloud Security | AWS | Terraform | DevSecOps
+<a href="https://github.com/greencypher"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a cybersecurity practitioner building hands-on projects focused on securing cloud infrastructure, automating security controls, and integrating security into software delivery workflows.
+I am a cybersecurity practitioner developing hands-on experience in cloud security, infrastructure security, and DevSecOps. I focus on applying security-by-design principles to cloud environments, automating security checks, and building infrastructure using modern security tools and practices.
 
-My work focuses on applying security-by-design principles to cloud environments, with an emphasis on least-privilege access, network isolation, infrastructure as code, encryption, secrets management, and automated security testing.
+My projects explore practical approaches to protecting cloud workloads, managing identities and secrets, securing container deployments, and integrating automated security testing into CI/CD pipelines.
 
-## 🔐 Areas of Focus
+## Objective
 
-* **AWS Cloud Security** — VPC architecture, IAM, ECS Fargate, encryption, and secrets management
-* **Infrastructure as Code** — Terraform modules, secure resource configuration, and state management
-* **Identity Security** — Least-privilege IAM, workload roles, and OIDC federation
-* **Container Security** — Container image scanning and secure workload deployment
-* **DevSecOps** — CI/CD security gates, secret detection, static analysis, and IaC scanning
+My goal is to become a Cloud Security Engineer, designing, implementing, and improving secure cloud environments using AWS, Terraform, and DevSecOps practices. I am focused on developing practical skills in cloud architecture, identity and access management, infrastructure hardening, encryption, vulnerability management, and security automation.
 
-## 🚀 Featured Projects
+Through hands-on projects, I aim to demonstrate how security controls can be incorporated throughout the infrastructure and software delivery lifecycle.
 
-### 🛡️ SentinelPay — AWS Cloud Security
+## Skills
 
-Designing and implementing a security-focused AWS architecture managed with Terraform.
+| Skill                                                 | Associated Project                                                         |
+| ----------------------------------------------------- | -------------------------------------------------------------------------- |
+| AWS Cloud Security Architecture                       | [SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)             |
+| Infrastructure as Code with Terraform                 | [SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)             |
+| IAM and Least-Privilege Access                        | [SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)             |
+| Private Networking and Controlled Application Ingress | [SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)             |
+| Encryption and Secrets Management                     | [SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)             |
+| Container Deployment with Amazon ECS Fargate          | [SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)             |
+| CI/CD Security Automation                             | [SecureFlow](https://github.com/greencypher/SecureFlow-VulnerableCodebase) |
+| Secret Detection and Static Analysis                  | [SecureFlow](https://github.com/greencypher/SecureFlow-VulnerableCodebase) |
+| Container Vulnerability Scanning                      | [SecureFlow](https://github.com/greencypher/SecureFlow-VulnerableCodebase) |
+| Infrastructure as Code Security Scanning              | [SecureFlow](https://github.com/greencypher/SecureFlow-VulnerableCodebase) |
+| Security Gates and Scan Reporting                     | [SecureFlow](https://github.com/greencypher/SecureFlow-VulnerableCodebase) |
 
-**Tech stack:** AWS · Terraform · ECS Fargate · IAM · VPC · ALB · KMS · Secrets Manager
+## Tools
 
-**Focus areas:**
+### Cloud & Infrastructure
 
-* Private networking and controlled application ingress
-* Least-privilege workload permissions
-* Encryption and centralised secrets management
-* Modular Terraform infrastructure
-* Secure CI/CD authentication with GitHub Actions OIDC
+<div>
+    <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_ECS-FF9900?&style=for-the-badge&logo=amazonecs&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon_VPC-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
 
-🔗 [View SentinelPay](https://github.com/sentinelpay-team/Sentinelpay)
+### Identity & Secrets Management
 
-### ⚙️ SecureFlow — DevSecOps Pipeline
+<div>
+    <img src="https://img.shields.io/badge/-AWS_IAM-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_KMS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Secrets_Manager-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
 
-Developing a CI/CD security pipeline that integrates automated security checks into the software delivery process.
+### DevSecOps & Security Scanning
 
-**Tech stack:** GitHub Actions · Gitleaks · SonarQube · Trivy · Checkov
+<div>
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gitleaks-800000?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=sonarqube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Trivy-1904DA?&style=for-the-badge&logo=aqua&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Checkov-6B46C1?&style=for-the-badge&logo=checkmarx&logoColor=white" />
+</div>
 
-**Focus areas:**
+### Containers & Version Control
 
-* Secret and credential detection
-* Static application security testing
-* Container vulnerability scanning
-* Terraform and infrastructure misconfiguration checks
-* Security gates for critical findings
-* Security scan reports and workflow artefacts
+<div>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
-🔗 [View SecureFlow](https://github.com/greencypher/SecureFlow-VulnerableCodebase)
+### Operating Systems
 
-## 🧰 Technologies & Tools
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 
-| Category          | Technologies                        |
-| ----------------- | ----------------------------------- |
-| Cloud             | AWS                                 |
-| IaC               | Terraform                           |
-| Containers        | Docker, ECS Fargate                 |
-| CI/CD             | GitHub Actions                      |
-| Security Scanning | Gitleaks, SonarQube, Trivy, Checkov |
-| Version Control   | Git, GitHub                         |
-| Operating Systems | Linux, Kali Linux, Windows          |
+## Certifications
 
-## 📚 Current Learning Journey
+<div>
+    <img src="https://img.shields.io/badge/-EC--Council_C%7CT-003366?&style=for-the-badge&logoColor=white" />
+</div>
 
-* Deepening my knowledge of AWS security architecture and cloud threat modelling
-* Strengthening Terraform security and infrastructure lifecycle management
-* Building secure container deployment pipelines
-* Improving automated security validation and vulnerability management
-* Developing practical cloud detection and incident response skills
 
-## 🤝 Let's Connect
+## Projects
 
-I'm interested in cloud security engineering, DevSecOps, infrastructure security, and collaborating with people who build more secure systems.
+* **[SentinelPay — AWS Cloud Security Infrastructure](https://github.com/sentinelpay-team/Sentinelpay)**
+  A hands-on project focused on Terraform-managed AWS infrastructure, secure networking, IAM, container deployment, encryption, and secrets management.
 
-*I use hands-on projects to develop and demonstrate my skills. Implementation status and validation evidence are documented within each project repository.*
+* **[SecureFlow — DevSecOps Security Pipeline](https://github.com/greencypher/SecureFlow-VulnerableCodebase)**
+  A hands-on project integrating security scanning into GitHub Actions using Gitleaks, SonarQube, Trivy, and Checkov.
